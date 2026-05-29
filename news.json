@@ -1,26 +1,26 @@
 [
   {
-    "tag": "VANTA ALPHA",
-    "title": "v1.0 ALPHA.",
+    "tag": "1",
+    "title": "1 description.",
     "date": "May 29, 2026",
     "imageUrl": "https://raw.githubusercontent.com/itsBaimedd/VANTACLIENT/main/build.png",
     "featured": true,
     "enabled": true
   },
   {
-    "tag": "CLIENT CORE",
-    "title": "Remote news loading added",
+    "tag": "2",
+    "title": "2 description.",
     "date": "May 29, 2026",
     "imageUrl": "https://raw.githubusercontent.com/itsBaimedd/VANTACLIENT/main/news-icon.png",
     "featured": false,
-    "enabled": false
+    "enabled": true
   },
   {
-    "tag": "PROFILES",
-    "title": "Account switching is ready",
+    "tag": "3",
+    "title": "3 description.",
     "date": "Soon",
     "imageUrl": "https://raw.githubusercontent.com/itsBaimedd/VANTACLIENT/main/news-icon.png",
     "featured": false,
-    "enabled": false
+    "enabled": true
   }
 ]
