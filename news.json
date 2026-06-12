@@ -1,7 +1,7 @@
 [
   {
-    "tag": "1",
-    "title": "1 description.",
+    "tag": "bluebud is nigger",
+    "title": "i hate this guy.",
     "date": "May 29, 2026",
     "imageUrl": "https://raw.githubusercontent.com/itsBaimedd/VANTACLIENT/main/build.png",
     "featured": true,
@@ -13,7 +13,7 @@
     "date": "May 29, 2026",
     "imageUrl": "https://raw.githubusercontent.com/itsBaimedd/VANTACLIENT/main/news-icon.png",
     "featured": false,
-    "enabled": true
+    "enabled": false
   },
   {
     "tag": "3",
@@ -21,6 +21,6 @@
     "date": "Soon",
     "imageUrl": "https://raw.githubusercontent.com/itsBaimedd/VANTACLIENT/main/news-icon.png",
     "featured": false,
-    "enabled": true
+    "enabled": false
   }
 ]
